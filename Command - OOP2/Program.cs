@@ -94,6 +94,6 @@ public class Program
         golf.Year = 2021;
 
         Drive(golf);
-        Drive(audi);
+        Drive(audi); if drive(audi) then= gay
     }
 }
